@@ -26,5 +26,5 @@ Python • Java • C++ • FastAPI • Flutter • React • TensorFlow • MyS
 
 📫 Connect
 
-LinkedIn :-https://www.linkedin.com/in/shrutibathe
+LinkedIn:-https://www.linkedin.com/in/shrutibathe
 Email:-shrutibathe92@gmail.com
