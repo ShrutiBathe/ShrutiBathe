@@ -1,36 +1,30 @@
-# Hi 👋, I'm Shruti Bathe
+# Hi 👋 I'm Shruti Bathe
 
-🎓 Diploma Student | Aspiring Software Developer
+🎓 B.Tech CSE (Data Science) @ VIT Pune
 
-## 🚀 Skills
-- C++
-- Java
-- Python
-- PHP
-- MySQL
-- HTML, CSS, JavaScript
-- Machine Learning
+🏆 National Level Hackathon Winner
 
-## 💻 Projects
-### 🌊 RiverIQ
-AI-based river water quality analysis and prediction system.
+💻 AI | Machine Learning | FastAPI | Flutter
 
-### 🏫 GPY College Chatbot
-Rule-based chatbot for Government Polytechnic Yavatmal using PHP and MySQL.
+🌱 Currently learning
+• NLP
+• Deep Learning
+• Agentic AI
+• LLMs
 
-### 🏠 House Price Prediction
-Machine learning model for predicting house prices using Python.
+## Tech Stack
 
-### 🚨 Disaster Alert System
-Emergency alert and notification system.
+Python • Java • C++ • FastAPI • Flutter • React • TensorFlow • MySQL
 
-## 📚 Currently Learning
-- Data Structures & Algorithms
-- Full Stack Development
-- AI & NLP
+## Featured Projects
 
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/shrutibathe
-- GitHub: https://github.com/ShrutiBathe
+🚀 Smart Campus AI Assistant
 
-⭐ Always learning and building new projects!
+🌾 AgriBandhu
+
+🤖 NLP Projects
+
+📫 Connect
+
+LinkedIn :-https://www.linkedin.com/in/shrutibathe
+Email:-shrutibathe92@gmail.com
